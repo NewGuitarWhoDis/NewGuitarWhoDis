@@ -3,13 +3,13 @@
 <h1>📌 Pinned Repositories</h1>
 
 <a href="https://github.com/NewGuitarWhoDis/conor-westley.co.uk">
-  <img align="center" style="margin:0.5rem; width: 318px;" src="https://github-readme-stats.vercel.app/api/pin/?username=newguitarwhodis&repo=conor-westley.co.uk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem; width: 300px;" src="https://github-readme-stats.vercel.app/api/pin/?username=newguitarwhodis&repo=conor-westley.co.uk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/NewGuitarWhoDis/Enchanted-Client">
-  <img align="center" style="margin:0.5rem; width: 318px;" src="https://github-readme-stats.vercel.app/api/pin/?username=newguitarwhodis&repo=Enchanted-Client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem; width: 300px;" src="https://github-readme-stats.vercel.app/api/pin/?username=newguitarwhodis&repo=Enchanted-Client&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/FlyeCorp/Flyechat-Releases">
-  <img align="center" style="margin:0.5rem; width: 318px;" src="https://github-readme-stats.vercel.app/api/pin/?username=FlyeCorp&repo=Flyechat-Releases&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem; width: 300px;" src="https://github-readme-stats.vercel.app/api/pin/?username=FlyeCorp&repo=Flyechat-Releases&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <h1>Github Stats</h1>
